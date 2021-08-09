@@ -1,0 +1,4 @@
+numpy==1.19.2
+Flask==2.0.1
+joblib==1.0.1
+autoai-libs==1.12.11
