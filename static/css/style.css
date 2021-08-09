@@ -14,8 +14,8 @@
 html { width: 100%; height:100%; overflow:auto}
 
 body { 
-	width: 400%;
-	height:400%;
+	width: 100%;
+	height:100%;
 	font-family: 'Open Sans', sans-serif;
 	background: #092756;
 	color: #fff;
@@ -31,12 +31,12 @@ body {
 
 }
 .login { 
-	position: absolute;
+	position: relative;
 	top: 20%;
 	left: 50%;
 	margin: -150px 0 10px -150px;
 	width:400px;
-	height:400px;
+	height:100px;
 }
 
 .login h1 { color: #fff; text-shadow: 0 0 10px rgba(0,0,0,0.3); letter-spacing:1px; text-align:center; }
